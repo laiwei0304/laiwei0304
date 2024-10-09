@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @laiwei0304
-- 🌱 I’m currently learning software engineering.
+- 👋 Hi, I’m laiwei.
+- 🌱 I’m currently learning CG.
 
 
 <!---
