@@ -1,5 +1,3 @@
-- 👋 Hi, I’m laiwei.
-- 🌱 I’m currently learning CG.
 
 
 <!---
